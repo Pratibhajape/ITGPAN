@@ -1,0 +1,4 @@
+1.Introduction to the Cwipedia company and the staff
+2.creation of account on linkedId
+3.creation of account in github
+4.covered some basic concepts of software,sdlc,git,github,
