@@ -5,7 +5,7 @@ let clg_name;
 let branch;
 let phone_no;
 let address;
-
+console.log ("registration form");
 function reg(){
     email = document.getElementById("email").value;
     password = document.getElementById("password").value;
@@ -26,5 +26,11 @@ function reg(){
         "registration successfull"
     )
 
+    console.log("data succesfully wrote to the page")
+  
+      
+    
     
 }
+
+
