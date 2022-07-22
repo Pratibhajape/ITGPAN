@@ -7,7 +7,7 @@ const Section = () => {
   <div class="row">
     <div class="col">
   
-    <Lottie animationData={jisu} loop={true} />
+    <Lottie animationData={jisu} loop={true} style={{height:"10px"}}/>
     </div>
     <div class="col v-center">
    <div class="col">
